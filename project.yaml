@@ -1,0 +1,4 @@
+modules:
+  - kmp-src-jvm
+  - kmp-compose-resources
+  - jvm-lib

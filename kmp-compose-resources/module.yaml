@@ -1,0 +1,13 @@
+product:
+  type: kmp/lib
+  platforms: [jvm]
+
+dependencies:
+  - $compose.runtime
+  - $compose.components.resources
+
+settings:
+  compose:
+    enabled: true
+    resources:
+      packageName: b.resources
